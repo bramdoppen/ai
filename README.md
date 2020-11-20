@@ -1,24 +1,10 @@
-# legalinfo
+# AI playground project
+Just a fun project created quicly with Vue (singe file components)
 
-## Project setup
+Running on: [aifun.netlify.app]{http://aifun.netlify.app)
+
+## Installation & usage:
 ```
 npm install
-```
-
-### Compiles and hot-reloads for development
-```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
